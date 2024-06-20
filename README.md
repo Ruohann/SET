@@ -3,6 +3,12 @@
 ## Introduction
 SET is a captivating card game that challenges players to identify sets of cards based on distinct features: number, symbol, shading, and color. This Python implementation aims to provide an interactive way to play SET programmatically, making it a great tool for learning both game design and complex logic handling in programming.
 
+## What Can You Do With Our Code?
+- **Play the Game**: Engage in fast-paced gameplay designed to test your pattern recognition skills.
+- **Educational Tool**: Use the project to learn Python, event-driven programming, and GUI development with Pygame.
+- **Modify and Extend**: Feel free to fork the repository, modify the code, add new features, or change game mechanics.
+- **Integrate**: Incorporate this game into larger projects or software collections.
+
 ## Why This Code?
 The purpose of this implementation is to offer an educational tool for individuals interested in understanding the mechanics of the SET card game through coding. It is designed for those with a basic background in Python and can be an excellent project for aspiring game developers or programmers.
 
