@@ -11,7 +11,7 @@ To run this implementation of the SET card game, ensure you have the following:
 - Python 3.x
 - Standard Python libraries: `itertools`, `random`
 
-## 234
+
 ## Code Structure
 
 ### Card Class
@@ -24,6 +24,8 @@ class Card:
         self.symbol = symbol
         self.shading = shading
         self.color = color
+```
+
 ### Deck Creation and Shuffling
 Generates a deck of 81 unique cards and shuffles them to ensure random distribution:
 
