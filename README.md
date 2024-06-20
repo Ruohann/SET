@@ -20,9 +20,21 @@ Follow these steps to get the game up and running on your local machine:
 Use Git to clone the repository to your local machine:
 ```bash
 git clone https://github.com/your-username/SET-game.git
+```
 
 ### Navigate to the Game Directory
 Change to the directory containing the game files:
+```
+cd SET-game
+```
+
+### Launching the Game
+Run the Game
+From the command line within the SET-game directory, start the game by running:
+```bash
+python main.py
+```
+This command will open a new window displaying the game interface, complete with cards and game controls.
 
 
 ## Code Structure
