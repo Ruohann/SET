@@ -13,6 +13,22 @@ Before you install and run the game, make sure you have the following:
   ```bash
   pip install pygame
 
+## Installation
+To set up the SET game on your local system, follow these steps:
+### Clone the Repository:
+```bash
+git clone https://github.com/your-username/SET-game.git
+cd SET-game
+```
+### Navigate to the Game Directory:
+Ensure you are in the directory containing game.py and the images folder.
+### Running the Game
+Execute the following command in the command line within the SET-game directory to start the game:
+```bash
+python game.py
+```
+A new window will display the game interface, allowing you to start playing immediately.
+
 ## Game Interface
 - **Card Display Area**: 12 cards are shown at a time.
 - **Score and Timer Display**: Keep track of your score and remaining time at the top of the window.
