@@ -7,9 +7,11 @@ SET is a captivating card game that challenges players to identify sets of cards
 The purpose of this implementation is to offer an educational tool for individuals interested in understanding the mechanics of the SET card game through coding. It is designed for those with a basic background in Python and can be an excellent project for aspiring game developers or programmers.
 
 ## Setup Requirements
-To run this implementation of the SET card game, ensure you have the following:
-- Python 3.x
-- Standard Python libraries: `itertools`, `random`
+Before you install and run the game, make sure you have the following:
+- **Python**: Version 3.x [Download Python](https://www.python.org/downloads/)
+- **Pygame**: This can be installed using pip, which comes with Python. To install Pygame, open your command line and enter:
+  ```bash
+  pip install pygame
 
 
 ## Code Structure
