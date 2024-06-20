@@ -38,13 +38,13 @@ This command will open a new window displaying the game interface, complete with
 
 ## Game Interface
 
-Card Display Area: 12 cards are shown at a time.
-Score and Timer Display: Keep track of your score and remaining time at the top of the window.
+- **Card Display Area**: 12 cards are shown at a time.
+- **Score and Timer Display**: Keep track of your score and remaining time at the top of the window.
 
 ## How to Play
-Selecting Cards: Click on cards to select them; selected cards are highlighted.
-Identifying SETs: A set consists of three cards where each attribute (number, symbol, color, shading) is either all the same or all different across the cards.
-Scoring: Points are awarded for each valid set, and new cards replace the matched set.
+- **Selecting Cards**: Click on cards to select them; selected cards are highlighted.
+- **Identifying SETs**: A set consists of three cards where each attribute (number, symbol, color, shading) is either all the same or all different across the cards.
+- **Scoring**: Points are awarded for each valid set, and new cards replace the matched set.
 
 ## Code Structure
 
