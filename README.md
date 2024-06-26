@@ -17,7 +17,7 @@ Before you install and run the game, make sure you have the following:
 To set up the SET game on your local system, follow these steps:
 Clone the Repository:
 ```bash
-git clone https://github.com/your-username/SET-game.git
+git clone https://github.com/Ruohann/SET
 cd SET-game
 ```
 Navigate to the Game Directory:
