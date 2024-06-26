@@ -13,16 +13,16 @@ Before you install and run the game, make sure you have the following:
   ```bash
   pip install pygame
 
-## Installation
+### Installation
 To set up the SET game on your local system, follow these steps:
-### Clone the Repository:
+Clone the Repository:
 ```bash
 git clone https://github.com/your-username/SET-game.git
 cd SET-game
 ```
-### Navigate to the Game Directory:
+Navigate to the Game Directory:
 Ensure you are in the directory containing game.py and the images folder.
-### Running the Game
+Running the Game
 Execute the following command in the command line within the SET-game directory to start the game:
 ```bash
 python game.py
