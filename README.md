@@ -18,7 +18,7 @@ To set up the SET game on your local system, follow these steps:
 Clone the Repository:
 ```bash
 git clone https://github.com/Ruohann/SET
-cd SET-game
+cd SET
 ```
 Navigate to the Game Directory:
 Ensure you are in the directory containing game.py and the images folder.
